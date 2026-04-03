@@ -7,7 +7,7 @@ muid: krishnasree@mulearn
 https://github.com/Krishnasree26/Shipyard-Foundations 
 
 ## 🌐 Live Website  
-https://krishnasree@mulearn.github.io/Shipyard-Foundations/
+https://Krishnasree26.github.io/Shipyard-Foundations/
 
 ## 🌐 Git Actions Link
-https://github.com/krishnasree@mulearn/Shipyard-Foundations/actions
+https://github.com/Krishnasree26/Shipyard-Foundations/actions
